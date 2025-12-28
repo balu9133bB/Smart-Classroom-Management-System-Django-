@@ -30,9 +30,7 @@ Prerequisites
 
 Setup
 
-Clone repository:
 
-git clone https://github.com/Panith3366/Smart-Classroom-Management-System-Django-.git
 
 cd Smart-Classroom-Management-System-Django-
 
